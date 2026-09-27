@@ -4,5 +4,5 @@ A high-performance C pipeline and visualization tool for analyzing time-series c
 <details>
 <summary>📂 View Final Project Report</summary>
 The full engineering documentation can be found here:  
-👉[Automated Data Visualization Software Report.pdf](https://github.com/user-attachments/files/32705665/CPS188.-.Term.Project.Final.Report.pdf)
+👉[Automated Data Visualization Software Report](https://github.com/user-attachments/files/32705735/CPS188.-.Term.Project.Final.Report.pdf)
 </details>
